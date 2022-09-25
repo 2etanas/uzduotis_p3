@@ -1,0 +1,18 @@
+Instructions
+1. Užduotis "Skaičiuotuvas".
+
+Sukurti skaičiuotuvą. Skaičiuotuve įvedami du skaičiai į du skirtingus input.
+Aritmetinis veiksmas perduodamas per GET. Pvz.: sukuriamas trečias input, jei tame input yra + ženklas,
+jis perduodamas per GET, ir PHP kode if tikrina, koks aritmetinis veiksmas buvo perduotas.
+Rezultatas išvedamas į div.
+
+2. Sukurkite skaičiuotuvą, sudedantį dvi trupmenas. Rezultatas atvaizduojamas su sveikąja ir trupmenine dalimi į div.
+Kiekvienas laukelis turi turėti patikrinimą, ar jame yra įvestas skaičius.
+
+3. Sukurkite du input laukelius. Vienas -  vardas, kitas - slaptažodis. Susigalvokite vardą ir slaptažodį. Pvz. vardas - "admin",
+slaptažodis - "123456". Jei sugalvota kombinacija sutampa su tuo, kas įvesta į input laukelius, išvedamas pranešimas - "prisijungėte sėkmingai", kitu atveju - "Įvesti duomenys neteisingi".
+
+4. Papildikite 3 programą:
+   *Jei duomenys yra įvesti teisingi, vartotojas nukreipiamas į failą - manopaskyra.php.
+   *Kitu atveju, vartotojas nukreipiamas į puslapį - 404.php
+5. Sukurkite programą, kurioje perdavus kintamuosius per POST "juoda", "raudona", "melyna", puslapis nusidažo atitinkama spalva.
